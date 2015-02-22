@@ -1,0 +1,11 @@
+Three-of-a-crime is a simple logic game for up to 3 players. 
+There are 7 different criminals. The computer randomly chooses three of these (the "perpetrators"), 
+but doesn't tell the players which are chosen. The computer then puts down three random criminals. 
+0, 1, or 2 of these may be the actual perpetrators. 
+The computer also tells the player how many (but not which) of the three criminals are perpetrators. 
+The players may either guess which three criminals are the actual perpetrators or they may pass. 
+If a player guesses wrong, she is out of the game and the other players continue. 
+If no player chooses to guess, the computer puts down another three randomly chosen criminals 
+(0, 1, or 2 of which may be actual perpetrators) and tells the players how many (but not which) of these are actual perpetrators. 
+Players can again use logic to deduce the three actual criminals and may guess. 
+Play continues until some player guesses correctly or until all players have guessed incorrectly.
